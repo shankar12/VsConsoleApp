@@ -7,6 +7,7 @@ namespace VSConsoleApp
         public static void Main(string[] args)
         {
             Console.WriteLine("GitHub Welcomes you");
+            //Code added to GitHub
         }
     }
 }
